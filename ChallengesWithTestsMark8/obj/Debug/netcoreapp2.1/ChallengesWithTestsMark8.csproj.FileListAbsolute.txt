@@ -45,7 +45,6 @@ C:/Projects/CSharpProjects/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/n
 /Users/gregoryreevesjr/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp2.1/ChallengesWithTestsMark8.runtimeconfig.dev.json
 /Users/gregoryreevesjr/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp2.1/ChallengesWithTestsMark8.dll
 /Users/gregoryreevesjr/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp2.1/ChallengesWithTestsMark8.pdb
-/Users/gregoryreevesjr/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.csprojAssemblyReference.cache
 /Users/gregoryreevesjr/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
 /Users/gregoryreevesjr/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.AssemblyInfo.cs
 /Users/gregoryreevesjr/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
